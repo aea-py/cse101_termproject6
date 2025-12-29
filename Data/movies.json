@@ -1,0 +1,33 @@
+[
+  {
+    "id": "movie_1",
+    "title": "The Blair Witch Project",
+    "genre": "Horror, Found Footage",
+    "duration": 87,
+    "rating": "R",
+    "description": "Three teenagers investigate the legends about a witch in an old town to make a documentary.It does not go as planned."
+  },
+  {
+    "id": "movie_2",
+    "title": "Whiplash",
+    "genre": "Drama",
+    "duration": 148,
+    "rating": "PG-16",
+    "description": "The story of an overly ambitious young drummer who is haunted by the thought of being mediocre and chases validation from a cruel but succesful instructor."
+  },
+  {
+    "id": "movie_3",
+    "title": "Silence of The Lambs",
+    "genre": "Psychological Thriller",
+    "duration": 136,
+    "rating": "R",
+    "description": "Agent Starling makes a deal with the manipulative criminal Dr Lecter to solve a homicide case."
+  },
+    {
+    "id": "movie_4",
+    "title": "Tinkerbell and the Secret of the Wings",
+    "genre": "Animation",
+    "duration": 82,
+    "rating": "G",
+    "description": "Tinkerbell discovers a secret world and finds her lost sister.Kid friendly."}
+]
